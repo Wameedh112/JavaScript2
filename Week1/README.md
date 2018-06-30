@@ -1,7 +1,7 @@
 # Reading material for the first lecture:
 
 ```
-In week one we will discuss the following topics:
+In week one we will discuss the ;k';k topics:
 • Capturing user input
 • Basic DOM manipulations[img src, innerHTML]
 • Code debugging using the browser
